@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Blog inisaya pakai untuk catatan atau rangkuman tentang apa saja yang sudah saya pelajari khususnya pada topik Data Science dengan Java. Harapan saya dengan blog ini pengunjung bisa bertanya atau mengoreksi apabila ada kesalahan pada pemahaman dari apa yang telah saya pelajari.
