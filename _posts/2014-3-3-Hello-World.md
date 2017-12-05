@@ -4,4 +4,4 @@ title: Hello World!
 published: true
 ---
 
-Blog ini akan saya pakai untuk menjelaskan kembali dari apa yang sudah saya pelajari tentang **Data Science** dari berbagai sumber, dengan harapan sobat dumay bisa bertanya ataupun memberikan tambahan hingga mengoreksi apabila ada kesalahan dalam pemahaman saya sekaligus sebagai tempat saya berbagi, hhe.
+Blog ini akan saya pakai sebagai catatan untuk menjelaskan kembali dari apa yang sudah saya pelajari tentang **Data Science**, mulai dari NOL, dan dari berbagai sumber. Harapan saya sobat dumay bisa bertanya ataupun memberikan tambahan hingga mengoreksi apabila ada kesalahan dalam pemahaman saya, sekaligus sebagai tempat saya berbagi, hhe.
